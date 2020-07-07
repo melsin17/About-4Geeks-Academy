@@ -33,90 +33,75 @@ basic_info:
     avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
-    email: a@a.com #optional
-    phone: 234 2342 342 #optional
-    website: asd.com #optional
-    linkedin: alandoe #optional
+    email: melsin17@yahoo.com 
+    phone: 305 546 8128
+    website: 
+    linkedin: Nelson Ramirez
+
     
     #
     # ******** IMPORTANT *******
     # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
     github: melsin17
     
-    twitter: 'webjeda' #optional
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    instagram: 's2khoonigan' 
+    stack-overflow: Nelson Ramirez/melsin17,  13887244
 
     # languages you speak, levels inculde: Native, Professional
     languages:
+      - idiom: Spanish  
+        level: Native
+
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: German  
+        level: Basic
 
     # Interests or hobies
     interests:
-      - item: Climbing
+      - item: Coding
 
-      - item: Snowboarding
+      - item: Music
 
       - item: Cooking
 
 # Your previous education
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      # optional
+    - degree: Fullstack Developer
+      university: 4 Geeks Academy
+    
       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2011 - 2012
+      time: 2020 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Part time full stack developer program at 4 Geeks Academy, learned front-end and back-end development. Worked on various projects both independent and collaborative, learned how to code and use different languages. 
 
-          - Bullet point
-          - Bullet point
+          - HTML, CSS, Java, Python, Node.js
+          
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
+    - degree: BSN Nursing
+      university: Chamberlai University
+      
+      university_logo: https://www.chamberlain.edu/themes/custom/chm_base/images/chm-footer-logo.png
+      time: 2018 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Attained my Bachelors in Nursing field, continued my research in patient care and patient safety.
 
-          - Bullet point
-          - Bullet point
+          - Graduated Cum Laude
+        
 
 # Your previous job experiences or voluntier
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Registered Nurse
+      time: 2017 - Present
+      company: University of Miami
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Multi-specialty Nurse, provided patient care in different specialty areas. From Radiation/Oncology, Urology, Cardiology, Procedure Nurse, OR.
 
-          - Bullet point
-          - Bullet point
+          - Over 6 year experience
+          - Part of the Unit Practice Counsel (UPC)
 
     - role: Senior Software Engineer
       time: 2014 - 2015
